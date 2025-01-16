@@ -10,6 +10,9 @@ from game.camera.camera import Camera
 
 pg.init()
 
+#Changes
+Temp = 'changes were made'
+
 # definig some strings so that we can see which class to display
 STATE_MENU = 'menu'
 STATE_GAME = "game"
