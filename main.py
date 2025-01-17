@@ -12,6 +12,8 @@ pg.init()
 
 #Changes
 Temp = 'changes were made'
+# Mason's Changes
+OTHER_TEMP = "Mason made some changes as well"
 
 # definig some strings so that we can see which class to display
 STATE_MENU = 'menu'
