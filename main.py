@@ -10,6 +10,8 @@ from game.camera.camera import Camera
 
 pg.init()
 
+#Changes
+Temp = 'changes were made'
 # Mason's Changes
 OTHER_TEMP = "Mason made some changes as well"
 
